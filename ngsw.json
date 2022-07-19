@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1658268960951,
+  "timestamp": 1658270378024,
   "index": "C:/Program Files/Git/pokedexAngular/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "C:/Program Files/Git/pokedexAngular/938.cf53926487e78888.js",
+        "C:/Program Files/Git/pokedexAngular/938.4d9696d5f0fa800a.js",
         "C:/Program Files/Git/pokedexAngular/favicon.ico",
         "C:/Program Files/Git/pokedexAngular/index.html",
-        "C:/Program Files/Git/pokedexAngular/main.2277a6444e5cffca.js",
+        "C:/Program Files/Git/pokedexAngular/main.f688e5a1ebe5294d.js",
         "C:/Program Files/Git/pokedexAngular/manifest.webmanifest",
         "C:/Program Files/Git/pokedexAngular/polyfills.eac93a109616cf8c.js",
-        "C:/Program Files/Git/pokedexAngular/runtime.601c850bedfd2c81.js",
+        "C:/Program Files/Git/pokedexAngular/runtime.15e3f8bad73d69d4.js",
         "C:/Program Files/Git/pokedexAngular/styles.58dad2db80657528.css"
       ],
       "patterns": []
@@ -47,7 +47,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "C:/Program Files/Git/pokedexAngular/938.cf53926487e78888.js": "67c32b1f3aa707a2e482a1f168808d157ee57ca1",
+    "C:/Program Files/Git/pokedexAngular/938.4d9696d5f0fa800a.js": "eb4f0bbc7d382da15172418e3a92d69664ac01e9",
     "C:/Program Files/Git/pokedexAngular/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "C:/Program Files/Git/pokedexAngular/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "C:/Program Files/Git/pokedexAngular/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -60,11 +60,11 @@
     "C:/Program Files/Git/pokedexAngular/assets/pokemonLogo.png": "89f64c56af47b04f29060fc21d738c2e23ed465d",
     "C:/Program Files/Git/pokedexAngular/assets/pokemonNotFound.jpg": "b90096879e33b7eb679c5507db6aebc79cf0f549",
     "C:/Program Files/Git/pokedexAngular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "C:/Program Files/Git/pokedexAngular/index.html": "abc8f28114040fcc64541c566457fc9693bbde05",
-    "C:/Program Files/Git/pokedexAngular/main.2277a6444e5cffca.js": "69bbed016387fd304ad264e7bd01ca6e42270a83",
+    "C:/Program Files/Git/pokedexAngular/index.html": "fa7cc0880a2b5a2b6de1b836d62b76843bb13f9b",
+    "C:/Program Files/Git/pokedexAngular/main.f688e5a1ebe5294d.js": "e64dc16c5842a942f99058682d119aae35f12855",
     "C:/Program Files/Git/pokedexAngular/manifest.webmanifest": "4054c913f4482062b6e37e7752ef109d0e100b0d",
     "C:/Program Files/Git/pokedexAngular/polyfills.eac93a109616cf8c.js": "79913ab16bbfe3cdf71be6270ed263b36bc33cea",
-    "C:/Program Files/Git/pokedexAngular/runtime.601c850bedfd2c81.js": "de31f6a82d23f3f7fa823c23c30da0ecea7bb572",
+    "C:/Program Files/Git/pokedexAngular/runtime.15e3f8bad73d69d4.js": "68117c16000249f42bb3efe328c52cb6224e3150",
     "C:/Program Files/Git/pokedexAngular/styles.58dad2db80657528.css": "715e999b4cc06439617b96819085ba355bb517ef"
   },
   "navigationUrls": [

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1658271091720,
+  "timestamp": 1658431847870,
   "index": "C:/Program Files/Git/pokedexAngular/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "C:/Program Files/Git/pokedexAngular/938.4d9696d5f0fa800a.js",
+        "C:/Program Files/Git/pokedexAngular/47.fcb2ebd37d3f97fe.js",
         "C:/Program Files/Git/pokedexAngular/favicon.ico",
         "C:/Program Files/Git/pokedexAngular/index.html",
-        "C:/Program Files/Git/pokedexAngular/main.f688e5a1ebe5294d.js",
+        "C:/Program Files/Git/pokedexAngular/main.d98cd3cb30b2e174.js",
         "C:/Program Files/Git/pokedexAngular/manifest.webmanifest",
         "C:/Program Files/Git/pokedexAngular/polyfills.eac93a109616cf8c.js",
-        "C:/Program Files/Git/pokedexAngular/runtime.15e3f8bad73d69d4.js",
-        "C:/Program Files/Git/pokedexAngular/styles.58dad2db80657528.css"
+        "C:/Program Files/Git/pokedexAngular/runtime.a77760d6a3604869.js",
+        "C:/Program Files/Git/pokedexAngular/styles.c15ef7e494d247a4.css"
       ],
       "patterns": []
     },
@@ -30,6 +30,8 @@
         "ignoreVary": true
       },
       "urls": [
+        "C:/Program Files/Git/pokedexAngular/assets/espana.png",
+        "C:/Program Files/Git/pokedexAngular/assets/francia.png",
         "C:/Program Files/Git/pokedexAngular/assets/icons/icon-128x128.png",
         "C:/Program Files/Git/pokedexAngular/assets/icons/icon-144x144.png",
         "C:/Program Files/Git/pokedexAngular/assets/icons/icon-152x152.png",
@@ -38,16 +40,24 @@
         "C:/Program Files/Git/pokedexAngular/assets/icons/icon-512x512.png",
         "C:/Program Files/Git/pokedexAngular/assets/icons/icon-72x72.png",
         "C:/Program Files/Git/pokedexAngular/assets/icons/icon-96x96.png",
+        "C:/Program Files/Git/pokedexAngular/assets/italia.png",
+        "C:/Program Files/Git/pokedexAngular/assets/pokeball-bg.jpg",
+        "C:/Program Files/Git/pokedexAngular/assets/pokeball-bg.png",
         "C:/Program Files/Git/pokedexAngular/assets/pokeball.png",
+        "C:/Program Files/Git/pokedexAngular/assets/pokemon-home.png",
         "C:/Program Files/Git/pokedexAngular/assets/pokemonLogo.png",
-        "C:/Program Files/Git/pokedexAngular/assets/pokemonNotFound.jpg"
+        "C:/Program Files/Git/pokedexAngular/assets/pokemonNotFound.jpg",
+        "C:/Program Files/Git/pokedexAngular/assets/pokemonNotFound.png",
+        "C:/Program Files/Git/pokedexAngular/assets/reino-unido.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "C:/Program Files/Git/pokedexAngular/938.4d9696d5f0fa800a.js": "eb4f0bbc7d382da15172418e3a92d69664ac01e9",
+    "C:/Program Files/Git/pokedexAngular/47.fcb2ebd37d3f97fe.js": "d8cf1229887ea671285282afba729fd39b82ed83",
+    "C:/Program Files/Git/pokedexAngular/assets/espana.png": "839bed3acd4b64e5b0b657017ed20a6ca7e5904d",
+    "C:/Program Files/Git/pokedexAngular/assets/francia.png": "5e3fb88d04337365ff23d1fc95104323871f9f49",
     "C:/Program Files/Git/pokedexAngular/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "C:/Program Files/Git/pokedexAngular/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "C:/Program Files/Git/pokedexAngular/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -56,16 +66,22 @@
     "C:/Program Files/Git/pokedexAngular/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "C:/Program Files/Git/pokedexAngular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "C:/Program Files/Git/pokedexAngular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "C:/Program Files/Git/pokedexAngular/assets/italia.png": "dde1fdf9dc1ef27c600a38b9e7433ec992d83646",
+    "C:/Program Files/Git/pokedexAngular/assets/pokeball-bg.jpg": "f4e035e596a79b00788371ef6b429acdfad5999e",
+    "C:/Program Files/Git/pokedexAngular/assets/pokeball-bg.png": "c8f9b1adb635ce415bace3dc43d19c43e654709a",
     "C:/Program Files/Git/pokedexAngular/assets/pokeball.png": "0cf60c02db4cc006e134e3cd3a863dbd2a9a8280",
+    "C:/Program Files/Git/pokedexAngular/assets/pokemon-home.png": "a0cdbbaecc81f57ea49549aa75bd1cffcf0cacec",
     "C:/Program Files/Git/pokedexAngular/assets/pokemonLogo.png": "89f64c56af47b04f29060fc21d738c2e23ed465d",
     "C:/Program Files/Git/pokedexAngular/assets/pokemonNotFound.jpg": "b90096879e33b7eb679c5507db6aebc79cf0f549",
+    "C:/Program Files/Git/pokedexAngular/assets/pokemonNotFound.png": "630ceec84d74940cc8adf0ec30d173e8683201fb",
+    "C:/Program Files/Git/pokedexAngular/assets/reino-unido.png": "6495d0a202721472461a53b11c79aea953184a7c",
     "C:/Program Files/Git/pokedexAngular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "C:/Program Files/Git/pokedexAngular/index.html": "fa7cc0880a2b5a2b6de1b836d62b76843bb13f9b",
-    "C:/Program Files/Git/pokedexAngular/main.f688e5a1ebe5294d.js": "e64dc16c5842a942f99058682d119aae35f12855",
+    "C:/Program Files/Git/pokedexAngular/index.html": "50b89118f7c4a9cbb13435a00718d173fd10594f",
+    "C:/Program Files/Git/pokedexAngular/main.d98cd3cb30b2e174.js": "5da3360a639b1cf9086b76ac4602967e77c40624",
     "C:/Program Files/Git/pokedexAngular/manifest.webmanifest": "4054c913f4482062b6e37e7752ef109d0e100b0d",
     "C:/Program Files/Git/pokedexAngular/polyfills.eac93a109616cf8c.js": "79913ab16bbfe3cdf71be6270ed263b36bc33cea",
-    "C:/Program Files/Git/pokedexAngular/runtime.15e3f8bad73d69d4.js": "68117c16000249f42bb3efe328c52cb6224e3150",
-    "C:/Program Files/Git/pokedexAngular/styles.58dad2db80657528.css": "715e999b4cc06439617b96819085ba355bb517ef"
+    "C:/Program Files/Git/pokedexAngular/runtime.a77760d6a3604869.js": "cc5514984fad7b27181055003e0b931a661eeab3",
+    "C:/Program Files/Git/pokedexAngular/styles.c15ef7e494d247a4.css": "75a9c94183ef927bb6fc086bde2ed8e75064ca33"
   },
   "navigationUrls": [
     {
